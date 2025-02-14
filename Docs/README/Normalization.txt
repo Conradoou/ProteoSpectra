@@ -1,0 +1,1 @@
+Add the normalized intensity of each biological replicate to a spreadsheet, containing the name of the group in the first cell of each column.
