@@ -1,0 +1,8 @@
+In an Excel file, add the Uniprot accession codes of the proteins in the first column, with the label "Accession" in the first cell. Then, in the other columns, add the normalized intensities for each protein, with the name of the experimental group in the first cell of each column.
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+In an Excel file, the normalized intensities of each replicate should be added, with the name of the experimental group in the first cell of the column.
+
+
+
+
+
+
+

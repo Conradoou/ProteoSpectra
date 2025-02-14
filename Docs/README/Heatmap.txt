@@ -1,0 +1,19 @@
+# Only for proteins
+
+In the Excel file heatmap_example, the Accession column represents the Uniprot code of the proteins, followed by the normalized intensities.
+
+Step 1: Calculate the average of the normalized intensities for the control group using the formula:
+=Mean(A1:A3)
+
+Step 2: In the heatmap_example file, the cells in orange represent the calculation required for the graph. Use the formula:
+=-LOG(control average / replicate intensity, 2)
+This will give a scale from -2 to 2.
+
+Step 3: Copy the results of the -Log2 values and paste them into a new Excel sheet under the corresponding code.
+
+
+
+
+
+
+

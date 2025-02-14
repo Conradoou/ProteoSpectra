@@ -1,0 +1,13 @@
+# The coefficient of variation analysis must be performed using the normalized intensity/abundance values.
+# The calculations must be performed in Excel.
+
+Step 1. Calculate the mean of the normalized intensities for the experimental group using the equation:
+=AVERAGE(A1:A3)
+
+Step 2. Calculate the standard deviation of the normalized intensities for the experimental group using the equation:
+=STDEV(A1:A3)
+
+Step 3. Calculate the coefficient of variation using the formula:
+=(STDEV/AVERAGE)*100
+
+Step 4. In a new spreadsheet, add the name of the experimental group in the first cell of the column and then add the coefficient of variation values.
