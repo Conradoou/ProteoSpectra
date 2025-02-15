@@ -1,0 +1,1 @@
+Please cite ProteoSpectra in the methodology section of your scientific article: https://github.com/Conradoou/ProteoSpectra
